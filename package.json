@@ -26,8 +26,8 @@
     "url": "https://github.com/plentycode/gulp-sass-export.git"
   },
   "dependencies": {
-    "sass-export": "^0.1.6",
-    "through2": "^2.0.3"
+    "sass-export": "^2.0.1",
+    "through2": "^4.0.2"
   },
   "devDependencies": {},
   "scripts": {
